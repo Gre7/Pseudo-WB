@@ -9,6 +9,7 @@ const mySwiper = new Swiper('.swiper-container', {
 });
 
 // cart
+//Коментарий для Ефима ПАМ ПАМ 
 
 const buttonCart = document.querySelector('.button-cart');
 const modalCart = document.getElementById('modal-cart');
